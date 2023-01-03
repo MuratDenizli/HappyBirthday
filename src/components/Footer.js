@@ -6,10 +6,10 @@ export default class Footer extends Component {
       <footer>
         <p>
           &copy;{" "}
-          <a target="_blanc" href="#">
+          <span>
             Murat
-          </a>{" "}
-          and <a target="_blanc">Ömer</a>
+          </span>{" "}
+          and <span>Ömer</span>
         </p>
         <nav>
           <ul></ul>
